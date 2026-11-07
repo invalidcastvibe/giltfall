@@ -174,12 +174,6 @@ It is intended for entertainment purposes only.
 - No real advertisements.
 - All in-game coins and prizes are virtual.
 
-📜 License
-
-[Choose and add your preferred open-source license before publishing.]
-
-If you want others to freely use, modify, and redistribute the game, consider the MIT License.
-
 ---
 
 Enjoy the game, and may the coins fall in your favor! 🪙
